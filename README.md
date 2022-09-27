@@ -1,4 +1,5 @@
-# Code Test
+# PySide2 Tool
+A test from Sony
 
 ### Dependencies
 - Python 3.9.6
